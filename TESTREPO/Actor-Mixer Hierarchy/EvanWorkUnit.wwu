@@ -39,7 +39,7 @@
 					<ObjectLists/>
 					<GroupingInfo/>
 				</SwitchContainer>
-				<SwitchContainer Name="eijgrp" ID="{43B80C0E-4883-4D6B-997F-252AC4711E70}" ShortID="553617129">
+				<SwitchContainer Name="Sergey'sMUM" ID="{43B80C0E-4883-4D6B-997F-252AC4711E70}" ShortID="553617129">
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{07A60AE2-7FE5-42E7-9C5E-9C5A40C7DDE0}"/>
