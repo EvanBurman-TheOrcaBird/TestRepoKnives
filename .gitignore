@@ -72,3 +72,27 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+## ---------------- ##
+##   WWise stuff    ##
+## ---------------- ##
+
+# Modify "WWiseProject/" below to be the path to your .wproj folder inside your Unity assets
+
+# project stuff
+TESTREPO/.cache/
+TESTREPO/.backup/
+TESTREPO/*.prof
+TESTREPO/*_WwiseProject.*.validationcache
+
+
+## (Optional ???) ##
+
+# TESTREPO/*_WwiseProject.*.wsettings
+# TESTREPO/**/*.akd
+# TESTREPO/**/*.akpk
+
+## --------------- ##
+## End WWise Stuff ##
+## --------------- ##
+
